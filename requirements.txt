@@ -1,7 +1,7 @@
-langchain==0.2.3
-openai==1.33.0
-pydantic==2.7.3
-streamlit==1.26.0
-together==1.2.0
+langchain
+openai
+pydantic
+streamlit
+together
 langchain-community
 langchain-core
